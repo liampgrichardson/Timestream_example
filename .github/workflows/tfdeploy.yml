@@ -1,4 +1,4 @@
-name: Terraform Deploy Timestream
+name: Terraform Deploy
 
 on:
   workflow_dispatch: # Allows you to manually trigger the workflow
